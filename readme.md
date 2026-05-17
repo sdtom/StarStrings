@@ -1,7 +1,8 @@
 # MrKraken's String Replacements
 ### (English) Community Translated .ini for **Star Citizen [Build: sc-alpha-4.8.0_live_11825000]**
-
-# Includes
+> [!WARNING]
+> You **will need to check for an update to this file every patch** - I don't recommend using custom strings on PTU as each new build will likely add new strings. I have an automation setup to push new versions live but please keep in mind that I am UK based and PTU builds normally go up very late UK time, so there may be a few hours delay
+# Changes Included
 ### Contracts
 - Contracts that award blueprints have the potential pool added to the end of the description
   - Not perfect, but if you want to *search* for contracts/blueprints instead [SCMDB by 🥑Krovax](https://scmdb.net/) can help
@@ -36,8 +37,6 @@ If you want to use bits from different translation packs you've found, check out
 >[!NOTE]
 > Based once again on the wonderful Language Pack idea by [ExoAE](https://github.com/ExoAE/ScCompLangPack/tree/main).
 
-> [!WARNING]
-> You will need to maintain this file in order to keep strings up-to-date with each new build/patch that modifies strings. I have an automation setup to push new versions live but please keep in mind that I am UK based and PTU builds normally go up very late UK time, so there may be a few hours delay
 
 # Known Constraints/Unfixable Problems
 - Because of how some contracts share strings, there's some 'odd' looking behaviour that I've tried to show cleanly with `*` in titles marked with BP and then caveat text in the description. (I'm trying to keep this to an automated find/conditional replace operation so I don't need to manually maintain)
