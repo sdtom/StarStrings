@@ -21,6 +21,9 @@
   - To → From locations added (with thanks to WayfinderDrax for the idea)
 - Contracts that award scenario progress (Eg. Return of Xenothreat) show how many points & if they are split
 - Added reputation award amount to all contracts (title & description)
+- Added RS values to Recco Battaglia's Scan/Mining contracts
+  - Eg. `Got word that there might be a big deposit of Torite` → `Got word that there might be a big deposit of Torite (RS 3900)`
+  - This may cause other instances of the resource string showing RS Value, please report on issues tab if it's anywhere..."odd" 
 ### Mining
 - Hephaestanite (Raw) shortened to Heph (Raw)
 - Mining UI text shortened to avoid crossover with values
