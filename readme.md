@@ -1,5 +1,5 @@
-# MrKraken's String Replacements
-### (English) Community Translated .ini for **Star Citizen [Build: sc-alpha-4.8.0_live_12122953]**
+﻿# MrKraken's String Replacements
+### (English) Community Translated .ini for **Star Citizen [Build: sc-alpha-4.9.0_ptu_12218630]**
 > [!WARNING]
 > You **will need to check for an update to this file every patch** - I don't recommend using custom strings on PTU as each new build will likely add new strings. I have an automation setup to push new versions live but please keep in mind that I am UK based and PTU builds normally go up very late UK time, so there may be a few hours delay
 # Changes Included
@@ -21,6 +21,9 @@
   - To → From locations added (with thanks to WayfinderDrax for the idea)
 - Contracts that award scenario progress (Eg. Return of Xenothreat) show how many points & if they are split
 - Added reputation award amount to all contracts (title & description)
+- Added RS values to Recco Battaglia's Scan/Mining contracts
+  - Eg. `Got word that there might be a big deposit of Torite` → `Got word that there might be a big deposit of Torite (RS 3900)`
+  - This may cause other instances of the resource string showing RS Value, please report on issues tab if it's anywhere..."odd" 
 ### Mining
 - Hephaestanite (Raw) shortened to Heph (Raw)
 - Mining UI text shortened to avoid crossover with values
