@@ -1,1 +1,1 @@
-copy Data\Localization\english\global.ini "C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\data\Localization\english\global.ini" /Y
+copy src\For_Players\Data\Localization\english\global.ini "C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\data\Localization\english\global.ini" /Y
